@@ -183,7 +183,7 @@
 	background-color: rgba(17, 24, 40, 1);
 }*/
 
-#tool h3 {
+#tools h3 {
 	font-family: "Lexend Deca", sans-serif;
   font-optical-sizing: auto;
   font-weight: 600;
@@ -192,7 +192,7 @@
 	color: #FFFFFF;
 }
 
-#tool img {
+#tools img {
 	height: 150px;
 	width: auto;
 	border-radius: 10px;
@@ -200,7 +200,7 @@
 
 /*Tools End*/
 
-/*Contact Start*/
+/*Contact Start	*/
 
 #contact {
 	background-color: rgba(3, 6, 23, 1);
